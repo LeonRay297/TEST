@@ -2271,13 +2271,7 @@
     "cancel your submission?": "取消您的提交？",
     "are you sure? all information entered will be lost.": "你确定吗？所有已填写的信息都会清除。",
     "edit your device": "编辑你的设备",
-    "6. upload that file to your issue council computer profile.": "
-    1、按“Win+R”。
-    2、输入“dxdiag”。
-    3、点击“是(Y)”。
-    4、等待文本文件生成。
-    5、点击“保存所有信息(S)...”保存到电脑里面。
-    6、上传该文件。",
+    "6. upload that file to your issue council computer profile.": "\n1、按“Win+R”。\n2、输入“dxdiag”。\n3、点击“是(Y)”。\n4、等待文本文件生成。\n5、点击“保存所有信息(S)...”保存到电脑里面。\n6、上传该文件。",
     "upload": "上传",
     "issue title": "问题标题",
     "what’s your issue?": "你的问题是什么？",
