@@ -2375,10 +2375,6 @@
     "20 reproductions required to confirm": "20次复现 待确认",
     "are you sure? the complete information content will be lost.": "你确定吗？已填写的信息都会清除。",
     "category": "类别",
-    "environment": "环境",
-    "game version": "游戏版本",
-    "all issues": "所有问题"
-
-
+    "game version": "游戏版本"
   }
 }
